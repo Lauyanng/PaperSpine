@@ -13,7 +13,31 @@
 
 <p align="center">
   <a href="#install-with-ai"><strong>快速开始</strong></a> · <a href="#quick-demo">演示</a> · <a href="#research-cases">科研案例</a><br>
-  <small><a href="https://wubing2023.github.io/PaperSpine/v6/zh/">官网</a> · <a href="README.md">English</a> · <strong>简体中文</strong></small>
+  <small><a href="https://wubing2023.github.io/PaperSpine/v6/zh/">官网</a> · <a href="INSTALL-V6.md">安装文档</a> · <a href="#ways-to-work">版本选择</a> · <a href="https://lauyanng.github.io/PaperSpine/zh.html">社区星图</a></small>
+</p>
+
+<p align="center">
+  <a href="https://github.com/WUBING2023/PaperSpine/releases/tag/v6.0.0-beta.2"><img src="https://img.shields.io/static/v1?label=%E5%8F%91%E8%A1%8C%E7%89%88&amp;message=v6.0.0-beta.2&amp;color=ad512a&amp;style=flat" height="22" alt="发行版"></a>
+  <a href="https://github.com/WUBING2023/PaperSpine/stargazers"><img src="https://img.shields.io/github/stars/WUBING2023/PaperSpine?style=flat&amp;label=GitHub+%E6%98%9F%E6%A0%87&amp;color=b36529" height="22" alt="GitHub 星标"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/WUBING2023/PaperSpine?style=flat&amp;label=%E8%AE%B8%E5%8F%AF%E8%AF%81&amp;color=47566c" height="22" alt="许可证"></a>
+  <a href="https://github.com/WUBING2023/PaperSpine/actions/workflows/validate.yml"><img src="https://github.com/WUBING2023/PaperSpine/actions/workflows/validate.yml/badge.svg?branch=main" height="22" alt="Skill 校验"></a>
+  <a href="https://wubing2023.github.io/PaperSpine/contributors/zh.html"><img src="https://img.shields.io/github/contributors/WUBING2023/PaperSpine?style=flat&amp;label=%E8%B4%A1%E7%8C%AE%E8%80%85&amp;color=336384" height="22" alt="贡献者"></a>
+  <a href="https://github.com/WUBING2023/PaperSpine/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/WUBING2023/PaperSpine?style=flat&amp;label=%E5%B7%B2%E5%85%B3%E9%97%AD%E8%AE%AE%E9%A2%98&amp;color=5c6785" height="22" alt="已关闭议题"></a>
+  <a href="https://github.com/WUBING2023/PaperSpine/commits/main/"><img src="https://img.shields.io/github/commit-activity/m/WUBING2023/PaperSpine?style=flat&amp;label=%E6%8F%90%E4%BA%A4%E6%B4%BB%E8%B7%83%E5%BA%A6&amp;color=437c60" height="22" alt="提交活跃度"></a>
+</p>
+
+<p align="center">
+  <sub>V6</sub>
+  <a href="README.md"><img src="https://img.shields.io/static/v1?label=&amp;message=English&amp;color=e8e9ec&amp;style=flat" height="22" alt="English"></a>
+  <a href="README.zh-CN.md"><img src="https://img.shields.io/static/v1?label=&amp;message=%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87&amp;color=4b5563&amp;style=flat" height="22" alt="简体中文"></a>
+  <br><sub>V5 翻译</sub>
+  <a href="README.ja.md"><img src="https://img.shields.io/static/v1?label=&amp;message=%E6%97%A5%E6%9C%AC%E8%AA%9E&amp;color=e8e9ec&amp;style=flat" height="22" alt="日本語"></a>
+  <a href="README.ko.md"><img src="https://img.shields.io/static/v1?label=&amp;message=%ED%95%9C%EA%B5%AD%EC%96%B4&amp;color=e8e9ec&amp;style=flat" height="22" alt="한국어"></a>
+  <a href="README.es.md"><img src="https://img.shields.io/static/v1?label=&amp;message=Espa%C3%B1ol&amp;color=e8e9ec&amp;style=flat" height="22" alt="Español"></a>
+  <a href="README.fr.md"><img src="https://img.shields.io/static/v1?label=&amp;message=Fran%C3%A7ais&amp;color=e8e9ec&amp;style=flat" height="22" alt="Français"></a>
+  <a href="README.de.md"><img src="https://img.shields.io/static/v1?label=&amp;message=Deutsch&amp;color=e8e9ec&amp;style=flat" height="22" alt="Deutsch"></a>
+  <a href="README.pt.md"><img src="https://img.shields.io/static/v1?label=&amp;message=Portugu%C3%AAs&amp;color=e8e9ec&amp;style=flat" height="22" alt="Português"></a>
+  <a href="README.ru.md"><img src="https://img.shields.io/static/v1?label=&amp;message=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9&amp;color=e8e9ec&amp;style=flat" height="22" alt="Русский"></a>
 </p>
 
 <a id="quick-demo"></a>
@@ -191,9 +215,9 @@ Followwriting 短片演示如何借鉴论证写法、用本研究的结果落笔
 
 ## 开发与社区
 
-<a href="https://wubing2023.github.io/PaperSpine/zh.html"><img src="paperspine5/core/07_发布页/v6/readme/rounded/community-atlas-preview-zh.webp" width="790" alt="新版 PaperSpine 社区星图，展示全球星标分布、地域概览和高校分布入口。"></a>
+<a href="https://lauyanng.github.io/PaperSpine/zh.html"><img src="paperspine5/core/07_发布页/v6/readme/rounded/community-atlas-preview-zh.webp" width="790" alt="新版 PaperSpine 社区星图，展示全球星标分布、地域概览和高校分布入口。"></a>
 
-[查看各轮 V6 更新的贡献](https://wubing2023.github.io/PaperSpine/contributors/zh.html#v6-contributions) · [浏览社区星图](https://wubing2023.github.io/PaperSpine/zh.html)
+[查看各轮 V6 更新的贡献](https://wubing2023.github.io/PaperSpine/contributors/zh.html#v6-contributions) · [浏览社区星图](https://lauyanng.github.io/PaperSpine/zh.html)
 
 [中文官网](https://wubing2023.github.io/PaperSpine/v6/zh/) · [V6 源码](paperspine5/core/01_PaperSpine4/src/skill-editions/) · [安装管理器](paperspine5/core/06_插件化/release/edition_manager.py) · [官网源码](paperspine5/core/07_发布页/v6/) · [问题反馈](https://github.com/WUBING2023/PaperSpine/issues) · <a id="press-kit"></a>[项目素材](https://wubing2023.github.io/PaperSpine/v6/science/paperspine-v6-press-kit.zip)
 
