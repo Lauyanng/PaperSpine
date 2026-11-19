@@ -61,8 +61,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="paperspine5/core/07_发布页/v6/readme/rounded/paperspine-workflow-zh-still.webp">
-    <img src="paperspine5/core/07_发布页/v6/readme/rounded/paperspine-workflow-zh.webp" width="880" alt="PaperSpine 工作机制。从题目、数据或初稿出发，按需要研究取证、用 Followwriting 参考论证写法、绘制可编辑科研图，再审阅与交付。参考论文用于借鉴写法，本研究的数据和分析用于支撑论文结论；图源、代码和数据出处随可编辑稿件交付。">
+    <source media="(prefers-reduced-motion: reduce)" srcset="paperspine5/core/07_发布页/v6/readme/rounded/paperspine-workflow-8s-zh-still.webp">
+    <img src="paperspine5/core/07_发布页/v6/readme/rounded/paperspine-workflow-8s-zh.webp" width="880" alt="PaperSpine 工作机制。从题目、数据或初稿出发，按需要研究取证、用 Followwriting 参考论证写法、绘制可编辑科研图，再审阅与交付。参考论文用于借鉴写法，本研究的数据和分析用于支撑论文结论；图源、代码和数据出处随可编辑稿件交付。">
   </picture>
 </p>
 
