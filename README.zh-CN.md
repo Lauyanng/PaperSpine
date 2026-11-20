@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WUBING2023/PaperSpine/releases/tag/v6.0.0-beta.2"><img src="https://img.shields.io/static/v1?label=%E5%8F%91%E8%A1%8C%E7%89%88&amp;message=v6.0.0-beta.2&amp;color=ad512a&amp;style=flat" height="22" alt="发行版"></a>
+  <a href="https://github.com/WUBING2023/PaperSpine/releases/tag/v6.0.0-beta.2"><img src="https://img.shields.io/static/v1?style=flat&amp;label=%E5%8F%91%E8%A1%8C%E7%89%88&amp;color=ad512a&amp;message=v6.0.0-beta.2" height="22" alt="发行版"></a>
   <a href="https://github.com/WUBING2023/PaperSpine/stargazers"><img src="https://img.shields.io/github/stars/WUBING2023/PaperSpine?style=flat&amp;label=GitHub+%E6%98%9F%E6%A0%87&amp;color=b36529" height="22" alt="GitHub 星标"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/WUBING2023/PaperSpine?style=flat&amp;label=%E8%AE%B8%E5%8F%AF%E8%AF%81&amp;color=47566c" height="22" alt="许可证"></a>
   <a href="https://github.com/WUBING2023/PaperSpine/actions/workflows/validate.yml"><img src="https://github.com/WUBING2023/PaperSpine/actions/workflows/validate.yml/badge.svg?branch=main" height="22" alt="Skill 校验"></a>
@@ -30,7 +30,6 @@
   <sub>V6</sub>
   <a href="README.md"><img src="https://img.shields.io/static/v1?label=&amp;message=English&amp;color=e8e9ec&amp;style=flat" height="22" alt="English"></a>
   <a href="README.zh-CN.md"><img src="https://img.shields.io/static/v1?label=&amp;message=%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87&amp;color=4b5563&amp;style=flat" height="22" alt="简体中文"></a>
-  <br><sub>V5 翻译</sub>
   <a href="README.ja.md"><img src="https://img.shields.io/static/v1?label=&amp;message=%E6%97%A5%E6%9C%AC%E8%AA%9E&amp;color=e8e9ec&amp;style=flat" height="22" alt="日本語"></a>
   <a href="README.ko.md"><img src="https://img.shields.io/static/v1?label=&amp;message=%ED%95%9C%EA%B5%AD%EC%96%B4&amp;color=e8e9ec&amp;style=flat" height="22" alt="한국어"></a>
   <a href="README.es.md"><img src="https://img.shields.io/static/v1?label=&amp;message=Espa%C3%B1ol&amp;color=e8e9ec&amp;style=flat" height="22" alt="Español"></a>
@@ -229,7 +228,7 @@ Followwriting 短片演示如何借鉴论证写法、用本研究的结果落笔
 - 旧版宿主投影 · [Codex](dist/codex/skills/paper-spine/) · [Claude](dist/claude/skills/paper-spine/) · [OpenClaw](dist/openclaw/skills/paper-spine/) · [Claude command](dist/claude/commands/paperspine.md)
 - V5 安装器 · [install.ps1](install.ps1) · [install.sh](install.sh)
 
-[V5 存档](https://wubing2023.github.io/PaperSpine/v5/?legacy=1) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md) · [Português](README.pt.md)
+[V5 存档](https://wubing2023.github.io/PaperSpine/v5/?legacy=1)
 
 </details>
 
